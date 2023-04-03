@@ -17,15 +17,6 @@ PROJETS REALISES :
 
 
 
-## Dataviz & API ==> Création & développement D'application web
-
-<! Ce projet a pour objectif de développer une application web qui permette de visualiser des données de façon dynamique. Ce principe peut être pris de manière très large : ainsi, il peut s’agir de construire une page web affichant un graphique « classique » reflétant l’évolution de telle ou telle donnée. Mais il peut aussi s’agir de créer une animation mettant en scène des données de façon plus originale ou ludique (voir plus bas dans les idées proposées). !/>
-
-![vroum](https://user-images.githubusercontent.com/119256395/229467234-f54e1f65-7e34-4a60-9b38-b8e395d069a8.gif)
-
-
-
-https://user-images.githubusercontent.com/119256395/229468087-c1bc15df-b4f6-4f91-a714-a84abce0d0cb.mp4
 
 
 
