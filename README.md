@@ -15,7 +15,7 @@
 
 PROJETS REALISES : 
 
-🕹 PICO-8 ==> Création d'un jeu rétro complet
+## 🕹 PICO-8 ==> Création d'un jeu rétro complet
 
 ## Description
 
