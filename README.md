@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis François DIOUF</h1>
-<h3 align="center">Développeur web</h3>
+<h3 align="center">Développeur front-end & web mobile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farah-9&label=Profile%20views&color=0e75b6&style=flat" alt="farah-9" /> </p>
 
