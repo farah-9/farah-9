@@ -38,7 +38,14 @@ Ce projet collectif avait pour but de nous faire déverser notre imaginaire en �
 - Gestion d'équipe
 
 
+https://user-images.githubusercontent.com/119256395/229460460-1ceff3c2-a924-409a-ac8a-6b0674739551.mp4
 
+
+https://user-images.githubusercontent.com/119256395/229460718-458c356d-11fb-4c02-82a6-cda1c68d7bc8.mp4
+
+
+
+https://user-images.githubusercontent.com/119256395/229462942-a231f355-e975-4add-87db-51f49fe3fc68.mp4
 
 
 <a href="https://www.linkedin.com/in/fran%C3%A7ois-diouf-5172ab128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="françois diouf" height="30" width="40" /></a> </p>
