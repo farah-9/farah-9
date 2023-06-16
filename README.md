@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farah-9&label=Profile%20views&color=0e75b6&style=flat" alt="farah-9" /> </p>
 
-- 🔭 Je travaille actuellement sur un projet [EXTENSION NAVIGATEUR](https://github.com/farah-9/projet-collectif---extension-chrome-team-aissata-elsa-francois-seb)
+- 🔭 Je travaille actuellement sur un projet [RESEAU SOCIAL PHP](https://github.com/farah-9/projet-collectif---reseau-social-php-team_agathe_edward_francois)
 
 - 🌱 J'apprends actuellement **Systèmes et Réseau; Langages de Programmation ; Paradigmes de Programmation ; Structures d'Exécution;**
 
