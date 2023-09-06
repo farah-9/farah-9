@@ -1,5 +1,4 @@
-<h1 align="center">Salut 👋, je suis François DIOUF</h1>
-<h3 align="center">Développeur Web Full Stack & Concepteur développement d'application</h3>
+![Bleu Or Rustique Artisinal Distanciel Diplôme Bannière](https://github.com/farah-9/farah-9/assets/119256395/f11b91a3-5cd0-4ffa-a96e-c5587f1fab1d)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farah-9&label=Profile%20views&color=0e75b6&style=flat" alt="farah-9" /> </p>
 
