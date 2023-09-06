@@ -4,7 +4,7 @@
 
 - 🔭 Je travaille actuellement sur un projet [Créatioin d'une plateforme E-commerce de vente de meuble - MEUBLEA](https://github.com/farah-9/projet-collectif---plateforme-de-vente-de-meubles-meublea)
 
-- 🌱 J'apprends actuellement **Systèmes et Réseau; Langages de Programmation ; Paradigmes de Programmation ; Structures d'Exécution;**
+- 🌱 J'apprends actuellement **Systèmes et Réseau; Langages de Programmation ; Paradigmes de Programmation ; Structures d'Exécution; Culture du test et bonnes pratiques; Architechture logiciel**
 
 - 💬 Demandez-moi **projets et ressources utilisées**
 
@@ -19,6 +19,8 @@ PROJETS REALISES :
 [DATAVIZ API](https://github.com/farah-9/projet-collectif---dataviz-api-agathe-francois-marion)
 
 [EXTENSION NAVIGATEUR](https://github.com/farah-9/projet-collectif---extension-chrome-team-aissata-elsa-francois-seb)
+
+[MEUBLEA](https://github.com/farah-9/projet-collectif---plateforme-de-vente-de-meubles-meublea)
 
 RESEAUX:
 
